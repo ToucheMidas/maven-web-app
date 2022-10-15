@@ -97,15 +97,14 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Acada Learning Releases Nexus Repository</name>
-	      <url>http://54.165.207.57:8081/repository/FIRSTP-RELEASE/
+	      <url>http://3.86.216.38:8081/repository/DeclarativeScriptApp-RELEASE/
 </url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Acada Learning Snapshot Nexus Repository</name>
-	      <url>http://54.165.207.57:8081/repository/FIRSTP-SNAPSHOT/
-</url>
+	      <url>http://3.86.216.38:8081/repository/DeclarativeScriptAPP-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
